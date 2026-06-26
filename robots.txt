@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jigishabhatnagar.github.io/sitemap.xml

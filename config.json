@@ -1,0 +1,155 @@
+{
+  "features": {
+    "about": true,
+    "projects": true,
+    "experience": true,
+    "skills": true,
+    "github_projects": false
+  },
+  "site": {
+    "title": "Jigisha Bhatnagar",
+    "description": "B2B Sales, SaaS and Growth portfolio",
+    "seo": {
+      "title": "Jigisha Bhatnagar - B2B Sales | SaaS | Growth",
+      "description": "Portfolio of Jigisha Bhatnagar, a B2B sales professional focused on SaaS, growth, consultative selling and customer relationships.",
+      "keywords": "B2B sales, SaaS sales, growth, enterprise sales, startup sales, sales development, customer relationships",
+      "author": "Jigisha Bhatnagar",
+      "og_image": "https://avatars.githubusercontent.com/jigishabhatnagar?s=512",
+      "twitter_card": "summary_large_image",
+      "base_url": "https://jigishabhatnagar.github.io"
+    }
+  },
+  "header": {
+    "greeting": "Jigisha Bhatnagar",
+    "tagline": "B2B Sales | SaaS | Growth"
+  },
+  "social_links": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jigishabhatnagar/",
+      "icon": "linkedin",
+      "required": true
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/jigishabhatnagar",
+      "icon": "github"
+    }
+  ],
+  "github_username": "jigishabhatnagar",
+  "about": {
+    "paragraphs": [
+      "I am a results-driven sales professional with 4 years of experience navigating complex B2B sales cycles across enterprise and startup ecosystems. My work sits at the intersection of SaaS, growth, customer discovery and relationship-led selling.",
+      "I enjoy understanding how teams buy, what slows decisions down and how the right product story can create urgency. I bring a structured sales mindset, strong follow-through and the ability to build trust with prospects, customers and internal teams."
+    ]
+  },
+  "projects": {
+    "title": "Sales Impact",
+    "items": [
+      {
+        "name": "B2B SaaS Sales Development",
+        "date": "Sales and Growth",
+        "description": [
+          "Worked across prospecting, qualification, consultative conversations and stakeholder follow-up for B2B sales cycles.",
+          "Built a practical understanding of enterprise and startup buying environments, including how to identify pain points, map needs and move conversations forward.",
+          "Focused on clear communication, pipeline discipline and customer-first growth."
+        ]
+      },
+      {
+        "name": "Amazon Career Milestone",
+        "date": "2024",
+        "description": [
+          "Recognized publicly by HiveSchool for earning a placement at Amazon after Cohort 2.",
+          "Demonstrated ownership through structured learning, focused career preparation and consistent execution.",
+          "Used the milestone as a foundation for continued growth in B2B SaaS sales."
+        ],
+        "link": {
+          "url": "https://www.linkedin.com/posts/nikhilgaur20_placed-at-amazon-jigisha-bhatnagar-hiveschool-activity-7267863046457307136-4sqg",
+          "title": "View LinkedIn milestone"
+        }
+      },
+      {
+        "name": "Growth and Customer Conversations",
+        "date": "Ongoing",
+        "description": [
+          "Translate customer context into focused sales conversations that are easy to understand and act on.",
+          "Bring a balanced approach to outreach: research-led, concise, persistent and respectful of the buyer's time.",
+          "Interested in roles and projects where sales, SaaS adoption and business growth come together."
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "jobs": [
+      {
+        "company": "Amazon",
+        "role": "Sales Professional",
+        "date": "2024",
+        "responsibilities": [
+          "Earned a publicly recognized Amazon placement after focused preparation through HiveSchool Cohort 2.",
+          "Bring a B2B SaaS and growth lens to customer conversations, prospect research and relationship-led selling.",
+          "Focused on structured follow-through, clear communication and consistent execution across sales workflows."
+        ]
+      },
+      {
+        "company": "HiveSchool",
+        "role": "Cohort 2 - B2B SaaS Sales",
+        "date": "2024",
+        "responsibilities": [
+          "Built stronger fundamentals in B2B SaaS sales, outreach, positioning and career readiness.",
+          "Completed focused upskilling that contributed to the Amazon placement milestone.",
+          "Developed a more structured approach to prospect research, sales conversations and professional storytelling."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "name": "Sales",
+        "items": [
+          "B2B sales cycles",
+          "SaaS sales",
+          "Prospecting and qualification",
+          "Consultative discovery",
+          "Pipeline management"
+        ]
+      },
+      {
+        "name": "Growth",
+        "items": [
+          "Account research",
+          "Customer relationship building",
+          "Objection handling",
+          "Market and buyer understanding",
+          "Follow-up discipline"
+        ]
+      },
+      {
+        "name": "Work Style",
+        "items": [
+          "Clear communication",
+          "Ownership mindset",
+          "Structured learning",
+          "Cross-functional collaboration",
+          "Persistence with empathy"
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "title": "GitHub Projects",
+    "max_repos": 6,
+    "excluded_repos": [
+      "jigishabhatnagar"
+    ]
+  },
+  "footer": {
+    "show_social_links": true,
+    "show_built_with": true,
+    "built_with_text": "Built with vanilla JavaScript and GitHub Pages",
+    "tagline": "Open to conversations around B2B sales, SaaS and growth."
+  }
+}
