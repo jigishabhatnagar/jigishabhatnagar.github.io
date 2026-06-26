@@ -88,9 +88,9 @@ class SEOManager {
             "knowsAbout": [
                 "B2B Sales",
                 "SaaS Sales",
-                "Growth",
-                "Prospecting",
-                "Customer Relationships"
+                "Account Management",
+                "CRM",
+                "Customer Retention"
             ]
         };
 

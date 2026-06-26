@@ -1,6 +1,6 @@
 # Jigisha Bhatnagar - Portfolio
 
-Personal portfolio website for [jigishabhatnagar.github.io](https://jigishabhatnagar.github.io).
+Personal portfolio website for [jigishabhatnagar.com](https://jigishabhatnagar.com).
 
 The site is based on the structure of [yashrajnayak/yashrajnayak.github.io](https://github.com/yashrajnayak/yashrajnayak.github.io) and customized for a B2B Sales, SaaS and Growth profile.
 
@@ -9,7 +9,7 @@ The site is based on the structure of [yashrajnayak/yashrajnayak.github.io](http
 - About
 - Sales Impact
 - Professional Experience
-- Skills
+- Skills and Education
 - LinkedIn and GitHub links
 
 ## Local Preview

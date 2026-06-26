@@ -11,12 +11,12 @@
     "description": "B2B Sales, SaaS and Growth portfolio",
     "seo": {
       "title": "Jigisha Bhatnagar - B2B Sales | SaaS | Growth",
-      "description": "Portfolio of Jigisha Bhatnagar, a B2B sales professional focused on SaaS, growth, consultative selling and customer relationships.",
-      "keywords": "B2B sales, SaaS sales, growth, enterprise sales, startup sales, sales development, customer relationships",
+      "description": "Portfolio of Jigisha Bhatnagar, a B2B sales professional focused on SaaS growth, strategic account management, pipeline generation and customer retention.",
+      "keywords": "B2B sales, SaaS sales, growth, account management, CRM, key account management, customer retention, Amazon, WorldRef",
       "author": "Jigisha Bhatnagar",
       "og_image": "https://avatars.githubusercontent.com/jigishabhatnagar?s=512",
       "twitter_card": "summary_large_image",
-      "base_url": "https://jigishabhatnagar.github.io"
+      "base_url": "https://jigishabhatnagar.com"
     }
   },
   "header": {
@@ -34,47 +34,49 @@
       "name": "GitHub",
       "url": "https://github.com/jigishabhatnagar",
       "icon": "github"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:jigisha2306bhatnagar@gmail.com",
+      "icon": "email"
     }
   ],
   "github_username": "jigishabhatnagar",
   "about": {
     "paragraphs": [
-      "I am a results-driven sales professional with 4 years of experience navigating complex B2B sales cycles across enterprise and startup ecosystems. My work sits at the intersection of SaaS, growth, customer discovery and relationship-led selling.",
-      "I enjoy understanding how teams buy, what slows decisions down and how the right product story can create urgency. I bring a structured sales mindset, strong follow-through and the ability to build trust with prospects, customers and internal teams."
+      "I am a results-driven sales professional based in Bengaluru with 4 years of experience navigating complex B2B sales cycles across enterprise and startup ecosystems. My strengths sit across CRM, key account management, customer retention, customer engagement and growth.",
+      "At Amazon, I have worked across sales, account management and growth for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, deepened catalog presence by 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement and value-based solution selling.",
+      "Before Amazon, I managed international key accounts at WorldRef across Indonesia, the Philippines, Africa and KSA, supporting RFQs, commercial quotations, export documentation, procurement coordination and cross-functional deal execution."
     ]
   },
   "projects": {
     "title": "Sales Impact",
     "items": [
       {
-        "name": "B2B SaaS Sales Development",
-        "date": "Sales and Growth",
+        "name": "Amazon Strategic Account Growth",
+        "date": "2024 - Present",
         "description": [
-          "Worked across prospecting, qualification, consultative conversations and stakeholder follow-up for B2B sales cycles.",
-          "Built a practical understanding of enterprise and startup buying environments, including how to identify pain points, map needs and move conversations forward.",
-          "Focused on clear communication, pipeline discipline and customer-first growth."
+          "Acquired and expanded 80+ strategic accounts through consultative partner engagement and value-based solution selling.",
+          "Influenced 90M+ in GMS by mapping seller workflows, selection gaps and growth levers to marketplace opportunities.",
+          "Drove account optimizations, pipeline generation and value-based prospecting for high-value Amazon sellers in India."
         ]
       },
       {
-        "name": "Amazon Career Milestone",
-        "date": "2024",
+        "name": "Marketplace Selection and Catalog Depth",
+        "date": "Amazon",
         "description": [
-          "Recognized publicly by HiveSchool for earning a placement at Amazon after Cohort 2.",
-          "Demonstrated ownership through structured learning, focused career preparation and consistent execution.",
-          "Used the milestone as a foundation for continued growth in B2B SaaS sales."
-        ],
-        "link": {
-          "url": "https://www.linkedin.com/posts/nikhilgaur20_placed-at-amazon-jigisha-bhatnagar-hiveschool-activity-7267863046457307136-4sqg",
-          "title": "View LinkedIn milestone"
-        }
+          "Expanded catalog depth by 10,000+ listings and unblocked 500+ listings to improve seller visibility and marketplace supply.",
+          "Worked on listing quality enhancement, inventory optimization for FBA and non-FBA stock, high glance-view focus and account health maintenance.",
+          "Supported ad campaign optimization for higher RoAS while connecting consumer demand with marketplace selection gaps."
+        ]
       },
       {
-        "name": "Growth and Customer Conversations",
-        "date": "Ongoing",
+        "name": "Global Key Account and Trade Sales",
+        "date": "WorldRef",
         "description": [
-          "Translate customer context into focused sales conversations that are easy to understand and act on.",
-          "Bring a balanced approach to outreach: research-led, concise, persistent and respectful of the buyer's time.",
-          "Interested in roles and projects where sales, SaaS adoption and business growth come together."
+          "Managed key accounts across Indonesia, the Philippines, Africa and KSA, handling RFQs, competitive quotations and timely submissions.",
+          "Used global trade analysis and customer account insights to support deal closure, upselling, cross-selling and revenue generation.",
+          "Coordinated with business development, data research, procurement and operations teams to target the right customer segments and execute international shipments."
         ]
       }
     ]
@@ -84,57 +86,86 @@
     "jobs": [
       {
         "company": "Amazon",
-        "role": "Sales Professional",
-        "date": "2024",
+        "role": "COE | Sales & Account Management",
+        "date": "Jul 2025 - Present | Bengaluru",
         "responsibilities": [
-          "Earned a publicly recognized Amazon placement after focused preparation through HiveSchool Cohort 2.",
-          "Bring a B2B SaaS and growth lens to customer conversations, prospect research and relationship-led selling.",
-          "Focused on structured follow-through, clear communication and consistent execution across sales workflows."
+          "Drive revenue growth and operational excellence for high-value Amazon sellers in India.",
+          "Spearhead account optimization, pipeline generation and value-based prospecting.",
+          "Use GenAI tool adoption, data-driven insights and seller feedback to transform revenue losses into sustainable gains."
         ]
       },
       {
-        "company": "HiveSchool",
-        "role": "Cohort 2 - B2B SaaS Sales",
-        "date": "2024",
+        "company": "Amazon",
+        "role": "Sales | Account Management | Growth",
+        "date": "Nov 2024 - Jul 2025 | Bengaluru",
         "responsibilities": [
-          "Built stronger fundamentals in B2B SaaS sales, outreach, positioning and career readiness.",
-          "Completed focused upskilling that contributed to the Amazon placement milestone.",
-          "Developed a more structured approach to prospect research, sales conversations and professional storytelling."
+          "Worked with Amazon's Surgical Acquisition and Selection team to bridge consumer demand and marketplace supply by identifying selection gaps.",
+          "Onboarded new selections to the Amazon marketplace and managed account performance to maximize sales and brand presence.",
+          "Improved seller outcomes through ad campaign optimization, listing quality enhancement, inventory optimization, glance-view focus and account health management."
+        ]
+      },
+      {
+        "company": "WorldRef",
+        "role": "Sales Manager",
+        "date": "Apr 2023 - Aug 2024 | Delhi",
+        "responsibilities": [
+          "Managed the sales process in collaboration with cross-functional teams.",
+          "Used export tools and global trade analysis to build strategies for deal closure, customer account analysis, upselling and cross-selling.",
+          "Managed key accounts for Indonesia, the Philippines, Africa and KSA, including RFQs, competitive quotations, purchase orders, export invoices, Incoterms and delivery coordination."
+        ]
+      },
+      {
+        "company": "WorldRef",
+        "role": "Global Procurement Specialist",
+        "date": "Nov 2022 - Apr 2023 | Delhi",
+        "responsibilities": [
+          "Supported global procurement of industrial goods for MRO and industry consumables.",
+          "Conducted vendor meetings and negotiated cost reductions through consolidation of goods.",
+          "Collaborated with internal teams on vendor finalization, manufacturing follow-up, third-party inspections and timely delivery."
         ]
       }
     ]
   },
   "skills": {
-    "title": "Skills",
+    "title": "Skills & Education",
     "categories": [
       {
         "name": "Sales",
         "items": [
           "B2B sales cycles",
-          "SaaS sales",
-          "Prospecting and qualification",
-          "Consultative discovery",
-          "Pipeline management"
+          "Value-based solution selling",
+          "Inbound and outbound pipeline generation",
+          "Commercial negotiation",
+          "New logo acquisition"
         ]
       },
       {
-        "name": "Growth",
+        "name": "Account Growth",
         "items": [
-          "Account research",
-          "Customer relationship building",
-          "Objection handling",
-          "Market and buyer understanding",
-          "Follow-up discipline"
+          "Customer Relationship Management (CRM)",
+          "Key account management",
+          "Customer retention and engagement",
+          "Upselling and cross-selling",
+          "Strategic account expansion"
         ]
       },
       {
-        "name": "Work Style",
+        "name": "Marketplace & GTM",
         "items": [
-          "Clear communication",
-          "Ownership mindset",
-          "Structured learning",
-          "Cross-functional collaboration",
-          "Persistence with empathy"
+          "Seller account optimization",
+          "Catalog and listing quality growth",
+          "Ad campaign optimization",
+          "Global trade analysis",
+          "RFQ and quotation management"
+        ]
+      },
+      {
+        "name": "Education",
+        "items": [
+          "HiveSchool - Launchpad: Sales Strategy and Growth, Sales | GTM | Growth | B2B SaaS",
+          "Liverpool Business School - MBA, Business Administration and Management",
+          "Institute of Management Technology, Ghaziabad - PGPM, Business Administration and Management",
+          "IFI Jaipur - French Language B1"
         ]
       }
     ]
@@ -150,6 +181,6 @@
     "show_social_links": true,
     "show_built_with": true,
     "built_with_text": "Built with vanilla JavaScript and GitHub Pages",
-    "tagline": "Open to conversations around B2B sales, SaaS and growth."
+    "tagline": "Open to conversations around B2B sales, SaaS, account growth and customer engagement."
   }
 }
