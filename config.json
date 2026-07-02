@@ -29,16 +29,6 @@
       "url": "https://www.linkedin.com/in/jigishabhatnagar/",
       "icon": "linkedin",
       "required": true
-    },
-    {
-      "name": "GitHub",
-      "url": "https://github.com/jigishabhatnagar",
-      "icon": "github"
-    },
-    {
-      "name": "Email",
-      "url": "mailto:jigisha2306bhatnagar@gmail.com",
-      "icon": "email"
     }
   ],
   "github_username": "jigishabhatnagar",
@@ -127,7 +117,7 @@
     ]
   },
   "skills": {
-    "title": "Skills & Education",
+    "title": "Skills",
     "categories": [
       {
         "name": "Sales",
@@ -157,15 +147,6 @@
           "Ad campaign optimization",
           "Global trade analysis",
           "RFQ and quotation management"
-        ]
-      },
-      {
-        "name": "Education",
-        "items": [
-          "HiveSchool - Launchpad: Sales Strategy and Growth, Sales | GTM | Growth | B2B SaaS",
-          "Liverpool Business School - MBA, Business Administration and Management",
-          "Institute of Management Technology, Ghaziabad - PGPM, Business Administration and Management",
-          "IFI Jaipur - French Language B1"
         ]
       }
     ]

@@ -5,7 +5,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: var(--background-color, #f8fafc);
+    background-color: var(--background-color, #fff1f5);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -19,7 +19,7 @@
     height: 50px;
     border: 5px solid rgba(0, 0, 0, 0.1);
     border-radius: 50%;
-    border-top-color: var(--primary-color, #2563eb);
+    border-top-color: var(--primary-color, #be185d);
     animation: spin 1s ease-in-out infinite;
 }
 
@@ -30,7 +30,7 @@
 .loading-text {
     margin-top: 20px;
     font-family: 'Inter', sans-serif;
-    color: var(--text-color, #1e293b);
+    color: var(--text-color, #351325);
 }
 
 .hidden {

@@ -22,7 +22,7 @@ This site presents Jigisha Bhatnagar's work across B2B sales, SaaS growth, strat
 ## Site Sections
 
 - About
-- Skills and Education
+- Skills
 - Professional Experience
 - Sales Impact
 - Social and contact links

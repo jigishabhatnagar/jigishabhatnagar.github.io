@@ -12,10 +12,10 @@
 }
 
 .skill-category {
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 250, 253, 0.82);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(245, 201, 218, 0.72);
     border-radius: var(--border-radius-xl);
     padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
@@ -26,8 +26,8 @@
 }
 
 [data-theme="dark"] .skill-category {
-    background: rgba(30, 41, 59, 0.7);
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    background: rgba(49, 17, 35, 0.86);
+    border: 1px solid rgba(244, 114, 182, 0.16);
     border-top: 4px solid var(--primary-color);
 }
 

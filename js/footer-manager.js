@@ -47,30 +47,6 @@ export class FooterManager {
             });
         }
 
-        // Add Source Code link only in footer
-        if (config.github_username) {
-            const sourceCodeLink = this.createSocialLink({
-                name: 'Source Code',
-                url: `https://github.com/${config.github_username}/${config.github_username}.github.io`,
-                icon: 'code'
-            });
-            if (sourceCodeLink) {
-                fragment.appendChild(sourceCodeLink);
-            }
-        }
-
-        // Fallback: Add GitHub link if no social_links array exists but github_username is present
-        if ((!socialLinks || socialLinks.length === 0) && config.github_username) {
-            const githubLink = this.createSocialLink({
-                name: 'GitHub',
-                url: `https://github.com/${config.github_username}`,
-                icon: 'github'
-            });
-            if (githubLink) {
-                fragment.appendChild(githubLink);
-            }
-        }
-
         footerSocial.appendChild(fragment);
     }
 
@@ -82,7 +58,7 @@ export class FooterManager {
         link.href = social.url;
         link.target = '_blank';
         link.rel = 'noopener noreferrer';
-        link.setAttribute('aria-label', social.name === 'Source Code' ? 'View source code' : `${social.name} Profile`);
+        link.setAttribute('aria-label', `${social.name} Profile`);
 
         const icon = iconTemplate.content.cloneNode(true);
         link.appendChild(icon);
