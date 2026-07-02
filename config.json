@@ -161,7 +161,7 @@
   "footer": {
     "show_social_links": true,
     "show_built_with": true,
-    "built_with_text": "Built with vanilla JavaScript and GitHub Pages",
+    "built_with_text": "Built with vanilla JavaScript",
     "tagline": "Open to conversations around B2B sales, SaaS, account growth and customer engagement."
   }
 }
