@@ -7,7 +7,7 @@ export class ConfigManager {
     // Load and parse config
     async loadConfig() {
         try {
-            const response = await fetch('./config.json');
+            const response = await fetch('./config.json?v=pink-20260702');
             if (!response.ok) {
                 throw new Error(`Failed to load config: ${response.status} ${response.statusText}`);
             }
