@@ -6,7 +6,16 @@
     }
 
     header {
-        padding-top: 4rem;
+        padding-top: 3.5rem;
+    }
+
+    .profile-banner {
+        border-radius: var(--border-radius-xl);
+    }
+
+    .profile-img-wrapper {
+        margin-top: -52px;
+        margin-bottom: 1.25rem;
     }
 
     .profile-img {
@@ -137,6 +146,23 @@
 
 /* Small mobile */
 @media (max-width: 480px) {
+    .profile-banner {
+        aspect-ratio: 3 / 1;
+    }
+
+    .profile-banner img {
+        object-position: 54% center;
+    }
+
+    .profile-img-wrapper {
+        margin-top: -44px;
+    }
+
+    .profile-img {
+        width: 104px;
+        height: 104px;
+    }
+
     h1 {
         font-size: 2rem;
     }
