@@ -8,11 +8,11 @@
   },
   "site": {
     "title": "Jigisha Bhatnagar",
-    "description": "Sales, partnerships and technology ecosystem building",
+    "description": "Program management, partnerships and technology ecosystem building",
     "seo": {
-      "title": "Jigisha Bhatnagar | Bengaluru Tech Week, Sales & Partnerships",
-      "description": "Jigisha Bhatnagar works across technology ecosystem building, partnerships, B2B sales and account growth. Founding member of Bengaluru Tech Week.",
-      "keywords": "Jigisha Bhatnagar, Bengaluru Tech Week, technology ecosystem, partnerships, B2B sales, GTM, account management, Amazon, DevTools Academy",
+      "title": "Jigisha Bhatnagar | Program Manager & Bengaluru Tech Week Co-founder",
+      "description": "Jigisha Bhatnagar is a program manager working across technology ecosystems, partnerships, GTM and cross-functional execution. Co-founder of Bengaluru Tech Week.",
+      "keywords": "Jigisha Bhatnagar, program manager, Bengaluru Tech Week, technology ecosystem, partnerships, GTM, operations, stakeholder management, Amazon",
       "author": "Jigisha Bhatnagar",
       "og_image": "https://avatars.githubusercontent.com/jigishabhatnagar?s=512",
       "twitter_card": "summary_large_image",
@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Jigisha Bhatnagar",
-    "tagline": "Building Bengaluru Tech Week | Sales, GTM & Partnerships"
+    "tagline": "Program Manager | Partnerships & GTM | Co-founder, Bengaluru Tech Week"
   },
   "social_links": [
     {
@@ -40,9 +40,9 @@
   "github_username": "jigishabhatnagar",
   "about": {
     "paragraphs": [
-      "I work at the intersection of sales, partnerships and technology ecosystem building. I am a founding member of Bengaluru Tech Week, a citywide platform that brought 100+ independently hosted technology events onto one shared calendar in 2026.",
+      "I am a program manager who works across partnerships, GTM and technology ecosystems. As a co-founder of Bengaluru Tech Week, I helped turn a citywide idea into a coordinated programme of 100+ independently hosted technology events in 2026.",
       "At Amazon, I work across sales, account management and growth for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement.",
-      "I am also part of the DevTools Academy core team, supporting creator-led GTM and partnership operations for AI and developer-tool companies. Across these roles, I enjoy turning ambitious ideas into clear plans, strong relationships and well-run programmes."
+      "My strength is bringing structure to complex work: aligning stakeholders, turning goals into operating plans, tracking delivery and keeping teams moving from idea to execution."
     ]
   },
   "projects": {
@@ -50,7 +50,7 @@
     "items": [
       {
         "name": "Bengaluru Tech Week",
-        "date": "Founding Member | 2026 - Present",
+        "date": "Co-founder | 2026 - Present",
         "description": [
           "Helped build the inaugural citywide technology week around a shared calendar of 100+ independently hosted events.",
           "Worked across partnerships, host coordination, programme operations and community outreach.",
@@ -67,12 +67,12 @@
         ]
       },
       {
-        "name": "DevTools Academy",
-        "date": "Core Team",
+        "name": "International Account Programmes",
+        "date": "WorldRef | 2022 - 2024",
         "description": [
-          "Support creator-led GTM and partnership operations for AI and developer-tool companies.",
-          "Work on creator research, campaign coordination and relationship management.",
-          "Help translate growth goals into organised, repeatable execution."
+          "Managed key accounts across Indonesia, the Philippines, Africa and KSA.",
+          "Coordinated RFQs, quotations, purchase orders, export documentation and delivery milestones across teams.",
+          "Worked with business development, research, procurement and operations to keep deals moving."
         ]
       }
     ]
@@ -82,7 +82,7 @@
     "jobs": [
       {
         "company": "Bengaluru Tech Week",
-        "role": "Founding Member",
+        "role": "Co-founder",
         "date": "Jun 2026 - Present | Bengaluru",
         "responsibilities": [
           "Help build and operate a citywide week of independently hosted technology events.",
@@ -126,12 +126,12 @@
     "title": "Skills",
     "categories": [
       {
-        "name": "Ecosystem & Programmes",
+        "name": "Program Management",
         "items": [
-          "Partnership development",
-          "Community and host coordination",
-          "Programme operations",
-          "Speaker and stakeholder outreach",
+          "Programme planning and delivery",
+          "Stakeholder management",
+          "Risk and dependency tracking",
+          "Operating cadence and follow-through",
           "Cross-functional execution"
         ]
       },
@@ -146,11 +146,11 @@
         ]
       },
       {
-        "name": "Growth Operations",
+        "name": "Partnerships & Operations",
         "items": [
-          "Seller account optimization",
-          "Creator and partner research",
-          "Campaign coordination",
+          "Partner development",
+          "Community and host coordination",
+          "Seller account optimisation",
           "CRM and relationship management",
           "Data-informed decision making"
         ]
@@ -168,6 +168,6 @@
     "show_social_links": true,
     "show_built_with": true,
     "built_with_text": "Built with vanilla JavaScript",
-    "tagline": "Open to conversations about technology communities, partnerships, GTM and ecosystem building."
+    "tagline": "Open to program management roles across technology, partnerships, GTM and ecosystem building."
   }
 }

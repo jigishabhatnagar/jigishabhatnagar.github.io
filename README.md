@@ -2,7 +2,7 @@
 
 Personal portfolio website for [jigishabhatnagar.com](https://jigishabhatnagar.com), built with vanilla JavaScript and GitHub Pages.
 
-This site presents Jigisha Bhatnagar's work across technology ecosystem building, partnerships, B2B sales, GTM, account management, and marketplace growth.
+This site presents Jigisha Bhatnagar's work across program management, technology ecosystem building, partnerships, GTM, account management, and marketplace growth.
 
 ## Live Site
 
@@ -12,9 +12,8 @@ This site presents Jigisha Bhatnagar's work across technology ecosystem building
 
 ## Profile Highlights
 
-- Founding member of Bengaluru Tech Week
+- Co-founder of Bengaluru Tech Week
 - Helped build a shared citywide calendar of 100+ independently hosted technology events
-- Core team member at DevTools Academy
 - Amazon experience across COE, sales, account management, growth, acquisition, and marketplace selection
 - Acquired and expanded 80+ strategic accounts
 - Expanded catalog depth by 10,000+ listings and unblocked 500+ listings

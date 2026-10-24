@@ -86,11 +86,12 @@ class SEOManager {
             "image": seo.og_image,
             "sameAs": sameAs,
             "knowsAbout": [
+                "Program Management",
                 "Technology Ecosystem Building",
                 "Partnerships",
-                "Community Programmes",
-                "B2B Sales",
                 "Go-to-Market",
+                "Stakeholder Management",
+                "Cross-functional Execution",
                 "Account Management"
             ]
         };
