@@ -2,7 +2,7 @@
 
 Personal portfolio website for [jigishabhatnagar.com](https://jigishabhatnagar.com), built with vanilla JavaScript and GitHub Pages.
 
-This site presents Jigisha Bhatnagar's work across B2B sales, SaaS growth, strategic account management, customer retention, and marketplace growth.
+This site presents Jigisha Bhatnagar's work across technology ecosystem building, partnerships, B2B sales, GTM, account management, and marketplace growth.
 
 ## Live Site
 
@@ -12,7 +12,9 @@ This site presents Jigisha Bhatnagar's work across B2B sales, SaaS growth, strat
 
 ## Profile Highlights
 
-- 4 years of experience across enterprise and startup B2B sales cycles
+- Founding member of Bengaluru Tech Week
+- Helped build a shared citywide calendar of 100+ independently hosted technology events
+- Core team member at DevTools Academy
 - Amazon experience across COE, sales, account management, growth, acquisition, and marketplace selection
 - Acquired and expanded 80+ strategic accounts
 - Expanded catalog depth by 10,000+ listings and unblocked 500+ listings
@@ -24,7 +26,7 @@ This site presents Jigisha Bhatnagar's work across B2B sales, SaaS growth, strat
 - About
 - Skills
 - Professional Experience
-- Sales Impact
+- Selected Work
 - Social and contact links
 
 ## Content Management

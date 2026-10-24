@@ -35,11 +35,12 @@ export class SEOManager {
             "image": seo.og_image,
             "sameAs": sameAs,
             "knowsAbout": [
+                "Technology Ecosystem Building",
+                "Partnerships",
+                "Community Programmes",
                 "B2B Sales",
-                "SaaS Sales",
-                "Account Management",
-                "CRM",
-                "Customer Retention"
+                "Go-to-Market",
+                "Account Management"
             ]
         };
 

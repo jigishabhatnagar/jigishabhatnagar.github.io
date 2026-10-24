@@ -8,11 +8,11 @@
   },
   "site": {
     "title": "Jigisha Bhatnagar",
-    "description": "B2B Sales, SaaS and Growth portfolio",
+    "description": "Sales, partnerships and technology ecosystem building",
     "seo": {
-      "title": "Jigisha Bhatnagar - B2B Sales | SaaS | Growth",
-      "description": "Portfolio of Jigisha Bhatnagar, a B2B sales professional focused on SaaS growth, strategic account management, pipeline generation and customer retention.",
-      "keywords": "B2B sales, SaaS sales, growth, account management, CRM, key account management, customer retention, Amazon, WorldRef",
+      "title": "Jigisha Bhatnagar | Bengaluru Tech Week, Sales & Partnerships",
+      "description": "Jigisha Bhatnagar works across technology ecosystem building, partnerships, B2B sales and account growth. Founding member of Bengaluru Tech Week.",
+      "keywords": "Jigisha Bhatnagar, Bengaluru Tech Week, technology ecosystem, partnerships, B2B sales, GTM, account management, Amazon, DevTools Academy",
       "author": "Jigisha Bhatnagar",
       "og_image": "https://avatars.githubusercontent.com/jigishabhatnagar?s=512",
       "twitter_card": "summary_large_image",
@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Jigisha Bhatnagar",
-    "tagline": "B2B Sales | SaaS | Growth"
+    "tagline": "Building Bengaluru Tech Week | Sales, GTM & Partnerships"
   },
   "social_links": [
     {
@@ -29,44 +29,50 @@
       "url": "https://www.linkedin.com/in/jigishabhatnagar/",
       "icon": "linkedin",
       "required": true
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/jigishabhatnagar",
+      "icon": "github",
+      "required": true
     }
   ],
   "github_username": "jigishabhatnagar",
   "about": {
     "paragraphs": [
-      "I am a results-driven sales professional based in Bengaluru with 4 years of experience navigating complex B2B sales cycles across enterprise and startup ecosystems. My strengths sit across CRM, key account management, customer retention, customer engagement and growth.",
-      "At Amazon, I have worked across sales, account management and growth for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, deepened catalog presence by 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement and value-based solution selling.",
-      "Before Amazon, I managed international key accounts at WorldRef across Indonesia, the Philippines, Africa and KSA, supporting RFQs, commercial quotations, export documentation, procurement coordination and cross-functional deal execution."
+      "I work at the intersection of sales, partnerships and technology ecosystem building. I am a founding member of Bengaluru Tech Week, a citywide platform that brought 100+ independently hosted technology events onto one shared calendar in 2026.",
+      "At Amazon, I work across sales, account management and growth for high-value sellers in India. I have acquired and expanded 80+ strategic accounts, added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS through consultative partner engagement.",
+      "I am also part of the DevTools Academy core team, supporting creator-led GTM and partnership operations for AI and developer-tool companies. Across these roles, I enjoy turning ambitious ideas into clear plans, strong relationships and well-run programmes."
     ]
   },
   "projects": {
-    "title": "Sales Impact",
+    "title": "Selected Work",
     "items": [
       {
-        "name": "Amazon Strategic Account Growth",
-        "date": "2024 - Present",
+        "name": "Bengaluru Tech Week",
+        "date": "Founding Member | 2026 - Present",
         "description": [
-          "Acquired and expanded 80+ strategic accounts through consultative partner engagement and value-based solution selling.",
-          "Influenced 90M+ in GMS by mapping seller workflows, selection gaps and growth levers to marketplace opportunities.",
-          "Drove account optimizations, pipeline generation and value-based prospecting for high-value Amazon sellers in India."
+          "Helped build the inaugural citywide technology week around a shared calendar of 100+ independently hosted events.",
+          "Worked across partnerships, host coordination, programme operations and community outreach.",
+          "Connected founders, engineers, investors, communities and technology companies across Bengaluru."
         ]
       },
       {
-        "name": "Marketplace Selection and Catalog Depth",
-        "date": "Amazon",
+        "name": "Amazon Seller Growth",
+        "date": "Sales & Account Management | 2024 - Present",
         "description": [
-          "Expanded catalog depth by 10,000+ listings and unblocked 500+ listings to improve seller visibility and marketplace supply.",
-          "Worked on listing quality enhancement, inventory optimization for FBA and non-FBA stock, high glance-view focus and account health maintenance.",
-          "Supported ad campaign optimization for higher RoAS while connecting consumer demand with marketplace selection gaps."
+          "Acquired and expanded 80+ strategic accounts through consultative partner engagement and value-based selling.",
+          "Added 10,000+ listings, unblocked 500+ listings and influenced 90M+ in GMS.",
+          "Worked across pipeline generation, account optimisation, marketplace selection and seller growth."
         ]
       },
       {
-        "name": "Global Key Account and Trade Sales",
-        "date": "WorldRef",
+        "name": "DevTools Academy",
+        "date": "Core Team",
         "description": [
-          "Managed key accounts across Indonesia, the Philippines, Africa and KSA, handling RFQs, competitive quotations and timely submissions.",
-          "Used global trade analysis and customer account insights to support deal closure, upselling, cross-selling and revenue generation.",
-          "Coordinated with business development, data research, procurement and operations teams to target the right customer segments and execute international shipments."
+          "Support creator-led GTM and partnership operations for AI and developer-tool companies.",
+          "Work on creator research, campaign coordination and relationship management.",
+          "Help translate growth goals into organised, repeatable execution."
         ]
       }
     ]
@@ -75,13 +81,23 @@
     "title": "Professional Experience",
     "jobs": [
       {
+        "company": "Bengaluru Tech Week",
+        "role": "Founding Member",
+        "date": "Jun 2026 - Present | Bengaluru",
+        "responsibilities": [
+          "Help build and operate a citywide week of independently hosted technology events.",
+          "Coordinate across partners, event hosts, speakers, volunteers and community leaders.",
+          "Support programme design, partnerships and on-ground execution."
+        ]
+      },
+      {
         "company": "Amazon",
         "role": "COE | Sales & Account Management",
         "date": "Jul 2025 - Present | Bengaluru",
         "responsibilities": [
           "Drive revenue growth and operational excellence for high-value Amazon sellers in India.",
           "Spearhead account optimization, pipeline generation and value-based prospecting.",
-          "Use GenAI tool adoption, data-driven insights and seller feedback to transform revenue losses into sustainable gains."
+          "Use data, seller feedback and GenAI-assisted workflows to identify and act on growth opportunities."
         ]
       },
       {
@@ -103,16 +119,6 @@
           "Used export tools and global trade analysis to build strategies for deal closure, customer account analysis, upselling and cross-selling.",
           "Managed key accounts for Indonesia, the Philippines, Africa and KSA, including RFQs, competitive quotations, purchase orders, export invoices, Incoterms and delivery coordination."
         ]
-      },
-      {
-        "company": "WorldRef",
-        "role": "Global Procurement Specialist",
-        "date": "Nov 2022 - Apr 2023 | Delhi",
-        "responsibilities": [
-          "Supported global procurement of industrial goods for MRO and industry consumables.",
-          "Conducted vendor meetings and negotiated cost reductions through consolidation of goods.",
-          "Collaborated with internal teams on vendor finalization, manufacturing follow-up, third-party inspections and timely delivery."
-        ]
       }
     ]
   },
@@ -120,33 +126,33 @@
     "title": "Skills",
     "categories": [
       {
-        "name": "Sales",
+        "name": "Ecosystem & Programmes",
+        "items": [
+          "Partnership development",
+          "Community and host coordination",
+          "Programme operations",
+          "Speaker and stakeholder outreach",
+          "Cross-functional execution"
+        ]
+      },
+      {
+        "name": "Sales & GTM",
         "items": [
           "B2B sales cycles",
-          "Value-based solution selling",
-          "Inbound and outbound pipeline generation",
-          "Commercial negotiation",
-          "New logo acquisition"
-        ]
-      },
-      {
-        "name": "Account Growth",
-        "items": [
-          "Customer Relationship Management (CRM)",
+          "Pipeline generation",
+          "Value-based selling",
           "Key account management",
-          "Customer retention and engagement",
-          "Upselling and cross-selling",
-          "Strategic account expansion"
+          "Commercial negotiation"
         ]
       },
       {
-        "name": "Marketplace & GTM",
+        "name": "Growth Operations",
         "items": [
           "Seller account optimization",
-          "Catalog and listing quality growth",
-          "Ad campaign optimization",
-          "Global trade analysis",
-          "RFQ and quotation management"
+          "Creator and partner research",
+          "Campaign coordination",
+          "CRM and relationship management",
+          "Data-informed decision making"
         ]
       }
     ]
@@ -162,6 +168,6 @@
     "show_social_links": true,
     "show_built_with": true,
     "built_with_text": "Built with vanilla JavaScript",
-    "tagline": "Open to conversations around B2B sales, SaaS, account growth and customer engagement."
+    "tagline": "Open to conversations about technology communities, partnerships, GTM and ecosystem building."
   }
 }
